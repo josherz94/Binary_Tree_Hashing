@@ -7,7 +7,7 @@ This program also allows the user to query the document for specific words and
 will display the number of times the word appears in the document, 
 the line numbers in which the word appears, and the position of the word in the line.
 
-A full javadoc is available for this program.
+A complete javadoc is available for this program.
 
 ## Table of contents
 * [General info](#general-info)
