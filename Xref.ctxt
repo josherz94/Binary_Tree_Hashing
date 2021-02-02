@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Xref
-comment0.text=\r\n\ Xref\ is\ the\ main\ driver\ of\ the\ cross\ reference\ program.\ Xref\ is\ responsible\ for\ creating\r\n\ the\ binary\ search\ tree,\ adding\ Word\ objects\ as\ nodes\ on\ the\ tree\ and\ iterating\ through\ them.\r\n\ Xref's\ main\ job\ is\ to\ make\ cross\ reference\ listing\ for\ text\ documents.\r\n\ \r\n\ @author\ Joshua\ Matson\ id\#\ 012024010\ \ \ \r\n\ @version\ 5/17/2019\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\r\n\ Makes\ calls\ to\ create\ the\ hash\ table,\ outputs\ the\ table,\ collisions\ and\ load\ factor.\r\n\ Also\ creates\ the\ binary\ search\ tree\ given\ getty.txt,\ ommiting\ the\ words\ within\ the\ \r\n\ hash\ table.\ Main\ also\ does\ an\ inorder\ traversal\ of\ the\ tree,\ outputing\ each\ node\ and\r\n\ it's\ contents\ and\ allows\ the\ user\ to\ input\ runtime\ querys.\r\n
-numComments=2
