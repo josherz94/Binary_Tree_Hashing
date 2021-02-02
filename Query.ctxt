@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Query
+comment0.text=\r\n\ Query\ Class\ allows\ users\ to\ query\ the\ Binary\ Search\ tree\ wordTree\ at\ runtime.\r\n\r\n\ @author\ Joshua\ Matson\r\n\ @version\ 5/17/2019\r\n
+comment1.params=wordTree\ pw
+comment1.target=Query(ObjectBinaryTree,\ java.io.PrintWriter)
+comment1.text=\r\n\ Constructor\ for\ Query\ class\ objects.\r\n
+comment2.params=
+comment2.target=void\ wordQuery()
+comment2.text=\r\n\ Allows\ users\ to\ query\ the\ binary\ search\ tree\ at\ runtime.\r\n
+numComments=3

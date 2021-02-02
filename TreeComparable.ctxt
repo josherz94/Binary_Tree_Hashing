@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TreeComparable
+comment0.text=\r\n\ TreeComparable\ interface\ to\ help\ sort\ Word\ objects\ within\ a\ Binary\ Search\ Tree\r\n\ data\ structure\ with\ compareTo(Object\ o),\ dictates\ what\ to\ do\ for\ \r\n\ duplicate\ Words\ found\ while\ constructing\ the\ BST\ with\ operate(Object\ o),\r\n\ and\ outputs\ the\ contents\ of\ a\ Word\ object\ with\ visit().\r\n\ \r\n\ TreeComparable\ is\ implemented\ in\ the\ Word\ class.\r\n\r\n\r\n\ @author\ Joshua\ Matson\r\n\ @version\ 5/17/2019\r\n
+comment1.params=o
+comment1.target=int\ compareTo(java.lang.Object)
+comment2.params=o
+comment2.target=void\ operate(java.lang.Object)
+comment3.params=
+comment3.target=void\ visit()
+numComments=4
