@@ -30,8 +30,10 @@ This project specifically does not use a known hash function, or perfect hash fu
 demonstrate collision resolution.
 
 ## Screenshots
-TODO: add screenshots
-![Example screenshot](./img/screenshot.png)
+![Layout](https://github.com/josherz94/Binary_Tree_Hashing/blob/main/screenshots/layout.PNG?raw=true)
+![Table](https://github.com/josherz94/Binary_Tree_Hashing/blob/main/screenshots/table.PNG?raw=true)
+![Xref](https://github.com/josherz94/Binary_Tree_Hashing/blob/main/screenshots/xref.PNG?raw=true)
+![Input](https://github.com/josherz94/Binary_Tree_Hashing/blob/main/screenshots/input.PNG?raw=true)
 
 ## Technologies
 * Java 
